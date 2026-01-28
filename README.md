@@ -1,14 +1,3 @@
-<p align="left">
-  <a href="https://tiendo-welles-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/portfolio-black?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/parvenuprompting">
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://architects-blueprint.netlify.app/">
-    <img src="https://img.shields.io/badge/architectural%20blueprint-0A66C2?style=for-the-badge" />
-  </a>
-</p>
 Tiëndo Welles — Agentic Architect
 I design systems where AI builds software, not the other way around.
 
@@ -47,3 +36,15 @@ I collaborate best with people who:
 - Can challenge assumptions without ego
 
 If that matches you — reach out.
+
+<p align="left">
+  <a href="https://tiendo-welles-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/portfolio-black?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/parvenuprompting">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://architects-blueprint.netlify.app/">
+    <img src="https://img.shields.io/badge/architectural%20blueprint-0A66C2?style=for-the-badge" />
+  </a>
+</p>
