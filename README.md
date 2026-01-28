@@ -1,20 +1,26 @@
-Tiëndo Welles — Agentic Architect
+## Tiëndo Welles — Agentic Architect
 I design systems where AI builds software, not the other way around.
 
-Architecture > Code
-Determinism > Guessing
+Architecture > Code  
+Determinism > Guessing  
 Systems > Features
 
+---
+
+### What I’m Building
 I’m building AI-first software systems focused on:
 - Agentic code orchestration
 - Deterministic AI workflows
 - Browser-first and cloud-native platforms
 
-Flagship directions:
-- Engineer Flow — diagnostic & knowledge systems for heavy vehicles
-- Kairos OS — governance & orchestration layer for AI code agents
-- AI Fusion workflows — multi-agent validation across models
+**Flagship directions:**
+- **Engineer Flow** — diagnostic & knowledge systems for heavy vehicles
+- **Kairos OS** — governance & orchestration layer for AI code agents
+- **AI Fusion workflows** — multi-agent validation across models
 
+---
+
+### How I Think
 My work is guided by a few non-negotiables:
 
 - Architecture before implementation
@@ -22,14 +28,19 @@ My work is guided by a few non-negotiables:
 - Clear contracts (schemas, rules, governance)
 - AI as an operator, not a magic box
 
-I don’t chase frameworks.
+I don’t chase frameworks.  
 I design the rules they must obey.
 
-Currently focused on:
+---
+
+### Current Focus
 - Designing governance systems for AI code agents
 - Turning certification knowledge into executable capability schemas
 - Reducing feature-creep through strict v1 contracts
 
+---
+
+### Collaboration
 I collaborate best with people who:
 - Think in systems, not tickets
 - Value clarity over speed
