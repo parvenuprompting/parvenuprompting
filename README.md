@@ -1,6 +1,3 @@
-Tiëndo Welles: AI-Implementatie voor de Industrie
-Onderwerp: Professionele Positionering | Domein: Softwareontwikkeling | Datum: 10 maart 2026
-
 De kern
 Ik los operationele knelpunten op met software. Geen vage concepten, maar direct bruikbare tools die tijd besparen en fouten voorkomen in de fysieke wereld. Ik focus op wat werkt op de werkvloer, niet op wat mooi staat in een presentatie.
 
