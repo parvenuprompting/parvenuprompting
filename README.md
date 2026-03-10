@@ -1,61 +1,23 @@
-## Tiëndo Welles — Agentic Architect
-I design systems where AI builds software, not the other way around.
+Tiëndo Welles: AI-Implementatie voor de Industrie
+Onderwerp: Professionele Positionering | Domein: Softwareontwikkeling | Datum: 10 maart 2026
 
-Architecture > Code  
-Determinism > Guessing  
-Systems > Features
+De kern
+Ik los operationele knelpunten op met software. Geen vage concepten, maar direct bruikbare tools die tijd besparen en fouten voorkomen in de fysieke wereld. Ik focus op wat werkt op de werkvloer, niet op wat mooi staat in een presentatie.
 
----
+Werkwijze
+Ik ben geen traditionele programmeur die elke regel handmatig typt. Ik zet AI-systemen op een hoog niveau in om complexe software te genereren en te valideren. Hierdoor bouw ik met een snelheid en precisie die via klassieke methoden niet haalbaar is. Ik zie AI niet als een experiment, maar als een productiemachine die strikte regels nodig heeft om betrouwbaar te blijven.
 
-### What I’m Building
-I’m building AI-first software systems focused on:
-- Agentic code orchestration
-- Deterministic AI workflows
-- Browser-first and cloud-native platforms
+Focus op de realiteit
+Mijn achtergrond ligt in de zware praktijk van de logistiek en industrie. Ik begrijp de modder en de machines. De software die ik lever is gebouwd om daar te overleven, gebaseerd op de volgende principes:
 
-**Flagship directions:**
-- **Engineer Flow** — diagnostic & knowledge systems for heavy vehicles
-- **Kairos OS** — governance & orchestration layer for AI code agents
-- **AI Fusion workflows** — multi-agent validation across models
 
----
+Werkende software boven abstracte plannen.
 
-### How I Think
-My work is guided by a few non-negotiables:
 
-- Architecture before implementation
-- Deterministic systems over probabilistic hacks
-- Clear contracts (schemas, rules, governance)
-- AI as an operator, not a magic box
+Betrouwbaarheid boven gokwerk.
 
-I don’t chase frameworks.  
-I design the rules they must obey.
 
----
+Strikte kaders voor AI om fouten en boetes te voorkomen.
 
-### Current Focus
-- Designing governance systems for AI code agents
-- Turning certification knowledge into executable capability schemas
-- Reducing feature-creep through strict v1 contracts
-
----
-
-### Collaboration
-I collaborate best with people who:
-- Think in systems, not tickets
-- Value clarity over speed
-- Can challenge assumptions without ego
-
-If that matches you — reach out.
-
-<p align="left">
-  <a href="https://tiendo-welles-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/portfolio-black?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/parvenuprompting">
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://architects-blueprint.netlify.app/">
-    <img src="https://img.shields.io/badge/architectural%20blueprint-0A66C2?style=for-the-badge" />
-  </a>
-</p>
+Samenwerking
+Ik werk voor mensen die resultaten willen zien en waarde hechten aan feiten en data boven complexe theorieën. Ik hanteer een directe manier van communiceren zonder ruis. Als een proces vastloopt of techniek onbetrouwbaar blijkt, zorg ik voor een nuchtere oplossing die direct inzetbaar is.
