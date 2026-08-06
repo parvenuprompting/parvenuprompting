@@ -10,18 +10,9 @@ Ik focus op **wat écht werkt op de werkvloer**, niet op wat mooi staat in een p
 # Werkwijze  
 Ik ben geen traditionele programmeur die elke regel handmatig typt.  
 
-Ik zet **AI-systemen** op een hoog niveau in om complexe software te **genereren** én te **valideren**. Daardoor bouw ik met een snelheid en precisie die via klassieke methoden simpelweg niet haalbaar is.  
+Ik zet **AI-systemen** op een hoog niveau in om complexe software te **genereren** én te **valideren**. Daardoor bouw ik werkende prototypes met een snelheid en precisie die via klassieke methoden niet haalbaar is.  
 
-Ik zie AI niet als een experiment, maar als een **productiemachine** die strikte regels en kaders nodig heeft om betrouwbaar te blijven.
-
-# Focus op de realiteit  
-Mijn achtergrond ligt in de **zware praktijk** van logistiek en industrie. Ik begrijp de modder, de machines en de rauwe realiteit op de vloer.  
-
-De software die ik lever is gebouwd om daar te **overleven**, gebaseerd op deze principes:
-
-- **Werkende software** > abstracte plannen  
-- **Betrouwbaarheid** > gokwerk  
-- **Strikte kaders** voor AI om fouten én boetes te voorkomen
+Ik zie AI als een **productiemachine** die strikte regels en kaders nodig heeft om betrouwbaar te blijven.
 
 # Samenwerking  
 Ik werk voor mensen die **resultaten willen zien** en waarde hechten aan **feiten en data** boven complexe theorieën.  
