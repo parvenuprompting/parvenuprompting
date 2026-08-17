@@ -1,22 +1,25 @@
-# De kern  
-Ik los **operationele knelpunten** op met software.  
+# Tiëndo Welles
 
-Geen vage concepten, maar **direct bruikbare tools** die:  
-- tijd besparen  
-- fouten voorkomen in de fysieke wereld  
+## AI Native productbouwer
 
-Ik focus op **wat écht werkt op de werkvloer**, niet op wat mooi staat in een presentatie.
+Ik vertaal echte problemen naar bruikbare software, van domeinlogica en interface tot werkend prototype.
 
-# Werkwijze  
-Ik ben geen traditionele programmeur die elke regel handmatig typt.  
+Mijn projecten bewegen tussen:
+- tools voor complexe werkprocessen
+- lokale en privacygerichte software
+- leer- en productiviteitsapps
+- creatieve tools en AI-workflows
+- kleine producten die één concrete taak goed oplossen
 
-Ik zet **AI-systemen** op een hoog niveau in om complexe software te **genereren** én te **valideren**. Daardoor bouw ik werkende prototypes met een snelheid en precisie die via klassieke methoden niet haalbaar is.  
+## Mijn werkwijze
 
-Ik zie AI als een **productiemachine** die strikte regels en kaders nodig heeft om betrouwbaar te blijven.
+Ik gebruik AI om sneller te bouwen, maar niet om het denkwerk uit te besteden.
 
-# Samenwerking  
-Ik werk voor mensen die **resultaten willen zien** en waarde hechten aan **feiten en data** boven complexe theorieën.  
+Ik begin bij het probleem, modelleer de belangrijkste regels en bouw daarna een verticale slice die iemand echt kan gebruiken. Vervolgens test, vereenvoudig en verfijn ik de oplossing.
 
-Ik communiceer **direct**, zonder ruis.  
-
-Loopt een proces vast of blijkt de techniek onbetrouwbaar? Dan lever ik een **nuchtere, direct inzetbare oplossing** — geen mooie praatjes, maar actie die werkt.
+Mijn voorkeur gaat uit naar software die:
+- begrijpelijk is voor de gebruiker
+- aansluit op een echte workflow
+- lokaal of controleerbaar kan werken
+- meer doet dan alleen mooi ogen
+- duidelijk maakt wat wel en niet werkt
