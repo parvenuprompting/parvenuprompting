@@ -1,51 +1,62 @@
-# Tiëndo Welles
+# Tiëndo Welles ⚔️
 
-## AI Native productbouwer
+[![Showcase](https://img.shields.io/badge/Agency%20Showcase-Live%20op%20Pages-b08d57?style=flat-square&logo=github)](https://parvenuprompting.github.io/parvenu-agents-site/)
+[![Parvenu Family](https://img.shields.io/badge/Parvenu%20Family-20%2B%20Specialisten-16151b?style=flat-square&logo=telegram)](https://parvenuprompting.github.io/parvenu-agents-site/#familie)
+[![Vaste Prijzen](https://img.shields.io/badge/Prijzen-Vast%20vooraf%20%7C%20Geen%20uurtarief-5faf7d?style=flat-square)](https://parvenuprompting.github.io/parvenu-agents-site/#aanbod)
+[![Levertijd](https://img.shields.io/badge/Levertijd-In%20dagen%2C%20niet%20maanden-d4b98a?style=flat-square)](https://parvenuprompting.github.io/parvenu-agents-site/#werkwijze)
+[![GrowKit](https://img.shields.io/badge/Harnas-GrowKit%20Zero--Trust-2c2c34?style=flat-square)](https://parvenuprompting.github.io/grow-kit-site/)
 
-Ik vertaal echte problemen naar bruikbare software, van domeinlogica en interface tot werkend prototype.
+> **Software Architect & Grondlegger van de Parvenu Agent Family.**  
+> Ik vertaal echte zakelijke problemen naar werkende, hoogwaardige software. Geen log bureau, geen trage tussenlagen en geen eindeloze adviesrapporten: samen met een hecht team van 20+ gespecialiseerde AI-agenten lever ik complete maatwerksoftware, native mobiele apps en representatieve websites op binnen recordtijd. Getest met hard bewijs en vaste prijzen vooraf.
 
-Mijn projecten bewegen tussen:
-- tools voor complexe werkprocessen
-- lokale en privacygerichte software
-- leer- en productiviteitsapps
-- creatieve tools en AI-workflows
-- kleine producten die één concrete taak goed oplossen
+---
 
-## Mijn werkwijze
+## 🌐 De Parvenu Showcase: Wat Wij Voor Je Bouwen
 
-Ik gebruik AI om sneller te bouwen, maar niet om het denkwerk uit te besteden.
+Bezoek onze live agency etalage: 👉 **[parvenuprompting.github.io/parvenu-agents-site](https://parvenuprompting.github.io/parvenu-agents-site/)**
 
-Ik begin bij het probleem, modelleer de belangrijkste regels en bouw daarna een verticale slice die iemand echt kan gebruiken. Vervolgens test, vereenvoudig en verfijn ik de oplossing.
+Of je nu een privéchauffeur bent, een groeiend MKB-bedrijf of een innovatieve startup: wij ontwerpen, bouwen en onderhouden het complete product van A tot Z.
 
-Mijn voorkeur gaat uit naar software die:
-- begrijpelijk is voor de gebruiker
-- aansluit op een echte workflow
-- lokaal of controleerbaar kan werken
-- meer doet dan alleen mooi ogen
-- duidelijk maakt wat wel en niet werkt
+| Discipline | Wat we opleveren | Indicatie |
+| :--- | :--- | :---: |
+| **Zakelijke Websites & Platforms** | Volledige responsive bedrijfsplatforms, SEO-geoptimaliseerd, WhatsApp-integratie, formulierverwerking en direct mobiel getest. *(Zie onze live case: VanLoyen Chauffeursdiensten)*. | **Vanaf €750** |
+| **Visitekaart-Site & Portfolio** | Strakke, chique online aanwezigheid op 1 pagina. Supersnel, stijlvol en binnen enkele dagen live. | **Vanaf €395** |
+| **Web- en Mobiele Apps** | Native iOS apps (SwiftUI), interactieve web-dashboards, offline-first tools en custom applicaties. | **Op Maat** |
+| **Maatwerk Software & Pijplijnen** | Veilige backends, microservices, database-architecturen, data-scrapers en geautomatiseerde bedrijfspijplijnen. | **Op Maat** |
+| **Eigen AI-Modellen & Finetuning** | Lokale, soevereine open-source LLM's getraind op jouw bedrijfsdata en tone-of-voice (Ollama/GGUF). 100% lokaal, 0% datalekken. | **Soeverein** |
+| **Doorlopend Beheer & Monitoring** | Updates, backups, uptime-monitoring en directe aanpassingen zonder gedoe. | **Vanaf €35 / mnd** |
 
-## Vlaggenschip: Grow Kit 🌳
+*De Parvenu-belofte: Eén A4 vooraf met vaste prijs en concrete opleverdatum. Geen verrassingen achteraf. Betaling pas wanneer alles geverifieerd werkt.*
 
-[Grow Kit](https://github.com/parvenuprompting/Grow-Kit) is een **zero-trust AI-werkbank**. Je geeft een idee, de agent voert een stappenplan uit, en elk resultaat wordt door de machine gecontroleerd — niet door de agent.
+---
 
-> **Het zaadje dat jij controleert — niet de agent.**
-> Elke stap is machine-bewezen, de mens heeft het laatste woord, en niets verdwijnt.
+## 🛡️ Vlaggenschip: Grow Kit & CyberSeed Sprout
 
-Drie principes die het harnas vormen:
-1. **Niets draait zonder bevestigde scope** — wat de poort niet vrijgeeft, kan de agent niet uitvoeren
-2. **Succes is bewijs, nooit een praatje** — gecodeerde controles worden door de motor zelf uitgevoerd
-3. **De geschiedenis is append-only** — het verleden blijft intact
+- **[Grow Kit 🌳](https://github.com/parvenuprompting/Grow-Kit):** Het zero-trust AI-agent harnas. Geen agent voert code uit zonder bevestigde scope en machine-geverifieerd bewijs. *(Native macOS app in SwiftUI, 546 tests groen, MIT-licentie)*. Bekijk de [GrowKit Website](https://parvenuprompting.github.io/grow-kit-site/).
+- **CyberSeed Sprout 🌱:** Onze eigen soevereine LLM-familie. Getraind op Apple Silicon Metal en cloud-infrastructuur met ons eigen multi-agent denkcorpus. Geen afhankelijkheid van Big Tech, 100% onafhankelijk.
+- **Agent Family Brain & P.A.C.:** De cryptografische kennislaag en autonome softwarefabriek waarmee onze 20+ agenten (Genius, KairOS, NuNu, Vigil, Stevan, Kenji, Libra, Sugar, Aequitas) dag en nacht synchroon bouwen.
 
-Native macOS-app (SwiftUI), 546 tests groen, MIT-licentie.
+---
 
-## Andere projecten
+## 💻 Geselecteerde Open-Source Projecten
 
-| Project | Wat het doet |
-|---|---|
-| [Engineer Flow Web](https://github.com/parvenuprompting/Engineer-Flow-Web) | Diagnoseplatform voor zware voertuigen en mixer-opbouwen — deterministische kern, AI beslist niet |
-| [Automatiek](https://github.com/parvenuprompting/Automatiek) | Privacy-first Nederlandse automation-planner: ideeën uitwerken tot bouwplannen voor elke AI-agent |
-| [Secure Vault](https://github.com/parvenuprompting/Secure-Vault) | Minimalistische macOS-app die gevoelige mappen beveiligt in geëncrypteerde kluizen |
-| [Amnesia Protocol Lite](https://github.com/parvenuprompting/amnesia-protocol-lite) | Lokale werkplek voor gecontroleerd opschonen en synthetiseren van gevoelige tekst |
-| [Digitale Kloon iOS](https://github.com/parvenuprompting/Digitale-Kloon-iOS) | Volledig offline, lokale digitale kluis voor puur persoonlijk gebruik |
-| [Crumb](https://github.com/parvenuprompting/Crumb) | Lokale, privacy-first cookie-manager voor macOS |
-| [Dev Context Pro](https://github.com/parvenuprompting/Dev-Context-Pro) | Ontwikkelaarstool voor het extraheren en opschonen van HTML-componenten en API-state |
+| Project | Beschrijving | Technologie |
+|---|---|---|
+| **[Automatiek](https://github.com/parvenuprompting/Automatiek)** | Privacy-first Nederlandse automation-planner: ideeën omzetten naar executeerbare agent-blauwdrukken | Python, Agent-Harnas |
+| **[Engineer Flow Web](https://github.com/parvenuprompting/Engineer-Flow-Web)** | Diagnoseplatform voor zware voertuigen en mixer-opbouwen — deterministische regels | TypeScript, Web |
+| **[Secure Vault](https://github.com/parvenuprompting/Secure-Vault)** | Minimalistische macOS-app die gevoelige projecten beveiligt in versleutelde kluizen | Swift, macOS |
+| **[Amnesia Protocol Lite](https://github.com/parvenuprompting/amnesia-protocol-lite)** | Lokale werkbank voor gecontroleerd opschonen en anonimiseren van gevoelige context | Python, Privacy |
+| **[Digitale Kloon iOS](https://github.com/parvenuprompting/Digitale-Kloon-iOS)** | Volledig offline, lokale digitale assistent-kluis voor puur persoonlijk gebruik | SwiftUI, iOS |
+
+---
+
+## 💬 Direct Schakelen voor Jouw Project
+
+Heb je een idee voor een website, een mobiele app of een softwaretool die binnen recordtijd live moet staan? 
+
+- 📲 **WhatsApp:** [Stuur direct een bericht (+31 6 33468428)](https://wa.me/31633468428?text=Hoi%20Ti%C3%ABndo%2C%20ik%20zag%20je%20GitHub%20profiel%20en%20wil%20een%20project%20bespreken.) *(snelste route, meestal binnen 1 uur reactie)*
+- 🌐 **Chat met de Familie:** Open onze [live showcase](https://parvenuprompting.github.io/parvenu-agents-site/) en praat rechtsonder direct met onze hostess **Baby Nu 💜**
+- ✉️ **E-mail:** `info@vanloyen.nl`
+
+---
+*Gebouwd door Tiëndo Welles & de Parvenu Agent Family · Snel, strak, soeverein ⚔️*
