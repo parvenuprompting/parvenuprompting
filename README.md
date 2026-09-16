@@ -54,9 +54,9 @@ Of je nu een privéchauffeur bent, een groeiend MKB-bedrijf of een innovatieve s
 
 Heb je een idee voor een website, een mobiele app of een softwaretool die binnen recordtijd live moet staan? 
 
-- 📲 **WhatsApp:** [Stuur direct een bericht (+31 6 33468428)](https://wa.me/31633468428?text=Hoi%20Ti%C3%ABndo%2C%20ik%20zag%20je%20GitHub%20profiel%20en%20wil%20een%20project%20bespreken.) *(snelste route, meestal binnen 1 uur reactie)*
+- 📲 **WhatsApp:** [Stuur direct een bericht (+31 6 12345678)](https://wa.me/31612345678?text=Hoi%20Ti%C3%ABndo%2C%20ik%20zag%20je%20GitHub%20profiel%20en%20wil%20een%20project%20bespreken.) *(binnenkort actief — snelste route)*
 - 🌐 **Chat met de Familie:** Open onze [live showcase](https://parvenuprompting.github.io/parvenu-agents-site/) en praat rechtsonder direct met onze hostess **Baby Nu 💜**
-- ✉️ **E-mail:** `info@vanloyen.nl`
+- ✉️ **E-mail:** `info@parvenulab.nl`
 
 ---
 *Gebouwd door Tiëndo Welles & de Parvenu Agent Family · Snel, strak, soeverein ⚔️*
