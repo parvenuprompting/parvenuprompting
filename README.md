@@ -1,13 +1,13 @@
 # Tiëndo Welles ⚔️
 
 [![Showcase](https://img.shields.io/badge/Agency%20Showcase-parvenulab.nl-b08d57?style=flat-square&logo=safari)](https://parvenulab.nl)
-[![Parvenu Family](https://img.shields.io/badge/Parvenu%20Family-20%2B%30Specialisten-16151b?style=flat-square&logo=telegram)](https://parvenulab.nl/#familie)
+[![Parvenu Family](https://img.shields.io/badge/Parvenu%20Family-30%2B%20Specialisten-16151b?style=flat-square&logo=telegram)](https://parvenulab.nl/#familie)
 [![Vaste Prijzen](https://img.shields.io/badge/Prijzen-Vast%20vooraf%20%7C%20Geen%20uurtarief-5faf7d?style=flat-square)](https://parvenulab.nl/#aanbod)
 [![Levertijd](https://img.shields.io/badge/Levertijd-In%20dagen%2C%20niet%20maanden-d4b98a?style=flat-square)](https://parvenulab.nl/#werkwijze)
-[![GrowKit](https://img.shields.io/badge/Harnas-GrowKit%20Zero--Trust-2c2c34?style=flat-square)](https://parvenuprompting.github.io/grow-kit-site/)
+[![GrowKit](https://img.shields.io/badge/Harnas-GrowKit%20Zero--Trust-2c2c34?style=flat-square)](https://grow-kit.nl)
 
 > **Software Architect & Grondlegger van de Parvenu Agent Family.**  
-> Ik vertaal echte zakelijke problemen naar werkende, hoogwaardige software. Geen log bureau, geen trage tussenlagen en geen eindeloze adviesrapporten: samen met een hecht team van 20+ gespecialiseerde AI-agenten lever ik complete maatwerksoftware, native mobiele apps en representatieve websites op binnen recordtijd. Getest met hard bewijs en vaste prijzen vooraf.
+> Ik vertaal echte zakelijke problemen naar werkende, hoogwaardige software. Geen log bureau, geen trage tussenlagen en geen eindeloze adviesrapporten: samen met een hecht team van 30+ gespecialiseerde AI-agenten lever ik complete maatwerksoftware, native mobiele apps en representatieve websites op binnen recordtijd. Getest met hard bewijs en vaste prijzen vooraf.
 
 ---
 
@@ -32,9 +32,9 @@ Of je nu een privéchauffeur bent, een groeiend MKB-bedrijf of een innovatieve s
 
 ## 🛡️ Vlaggenschip: Grow Kit & CyberSeed Sprout
 
-- **[Grow Kit 🌳](https://github.com/parvenuprompting/Grow-Kit):** Het zero-trust AI-agent harnas. Geen agent voert code uit zonder bevestigde scope en machine-geverifieerd bewijs. *(Native macOS app in SwiftUI, 546 tests groen, MIT-licentie)*. Bekijk de [GrowKit Website](https://parvenuprompting.github.io/grow-kit-site/).
+- **[Grow Kit 🌳](https://github.com/parvenuprompting/Grow-Kit):** Het zero-trust AI-agent harnas. Geen agent voert code uit zonder bevestigde scope en machine-geverifieerd bewijs. *(Native macOS app in SwiftUI, 546 tests groen, MIT-licentie)*. Bekijk de [GrowKit Website](https://grow-kit.nl).
 - **CyberSeed Sprout 🌱:** Onze eigen soevereine LLM-familie. Getraind op Apple Silicon Metal en cloud-infrastructuur met ons eigen multi-agent denkcorpus. Geen afhankelijkheid van Big Tech, 100% onafhankelijk.
-- **Agent Family Brain & P.A.C.:** De cryptografische kennislaag en autonome softwarefabriek waarmee onze 20+ agenten (Genius, KairOS, NuNu, Vigil, Stevan, Kenji, Libra, Sugar, Aequitas) dag en nacht synchroon bouwen.
+- **Agent Family Brain & P.A.C.:** De cryptografische kennislaag en autonome softwarefabriek waarmee onze 30+ agenten (Genius, KairOS, NuNu, Vigil, Stevan, Kenji, Libra, Sugar, Aequitas, Calypso) dag en nacht synchroon bouwen.
 
 ---
 
