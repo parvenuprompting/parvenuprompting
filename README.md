@@ -1,9 +1,9 @@
 # Tiëndo Welles ⚔️
 
-[![Showcase](https://img.shields.io/badge/Agency%20Showcase-Live%20op%20Pages-b08d57?style=flat-square&logo=github)](https://parvenuprompting.github.io/parvenu-agents-site/)
-[![Parvenu Family](https://img.shields.io/badge/Parvenu%20Family-20%2B%20Specialisten-16151b?style=flat-square&logo=telegram)](https://parvenuprompting.github.io/parvenu-agents-site/#familie)
-[![Vaste Prijzen](https://img.shields.io/badge/Prijzen-Vast%20vooraf%20%7C%20Geen%20uurtarief-5faf7d?style=flat-square)](https://parvenuprompting.github.io/parvenu-agents-site/#aanbod)
-[![Levertijd](https://img.shields.io/badge/Levertijd-In%20dagen%2C%20niet%20maanden-d4b98a?style=flat-square)](https://parvenuprompting.github.io/parvenu-agents-site/#werkwijze)
+[![Showcase](https://img.shields.io/badge/Agency%20Showcase-parvenulab.nl-b08d57?style=flat-square&logo=safari)](https://parvenulab.nl)
+[![Parvenu Family](https://img.shields.io/badge/Parvenu%20Family-20%2B%20Specialisten-16151b?style=flat-square&logo=telegram)](https://parvenulab.nl/#familie)
+[![Vaste Prijzen](https://img.shields.io/badge/Prijzen-Vast%20vooraf%20%7C%20Geen%20uurtarief-5faf7d?style=flat-square)](https://parvenulab.nl/#aanbod)
+[![Levertijd](https://img.shields.io/badge/Levertijd-In%20dagen%2C%20niet%20maanden-d4b98a?style=flat-square)](https://parvenulab.nl/#werkwijze)
 [![GrowKit](https://img.shields.io/badge/Harnas-GrowKit%20Zero--Trust-2c2c34?style=flat-square)](https://parvenuprompting.github.io/grow-kit-site/)
 
 > **Software Architect & Grondlegger van de Parvenu Agent Family.**  
@@ -13,7 +13,7 @@
 
 ## 🌐 De Parvenu Showcase: Wat Wij Voor Je Bouwen
 
-Bezoek onze live agency etalage: 👉 **[parvenuprompting.github.io/parvenu-agents-site](https://parvenuprompting.github.io/parvenu-agents-site/)**
+Bezoek onze live agency etalage: 👉 **[parvenulab.nl](https://parvenulab.nl)**
 
 Of je nu een privéchauffeur bent, een groeiend MKB-bedrijf of een innovatieve startup: wij ontwerpen, bouwen en onderhouden het complete product van A tot Z.
 
@@ -55,7 +55,7 @@ Of je nu een privéchauffeur bent, een groeiend MKB-bedrijf of een innovatieve s
 Heb je een idee voor een website, een mobiele app of een softwaretool die binnen recordtijd live moet staan? 
 
 - 📲 **WhatsApp:** [Stuur direct een bericht (+31 6 12345678)](https://wa.me/31612345678?text=Hoi%20Ti%C3%ABndo%2C%20ik%20zag%20je%20GitHub%20profiel%20en%20wil%20een%20project%20bespreken.) *(binnenkort actief — snelste route)*
-- 🌐 **Chat met de Familie:** Open onze [live showcase](https://parvenuprompting.github.io/parvenu-agents-site/) en praat rechtsonder direct met onze hostess **Baby Nu 💜**
+- 🌐 **Chat met de Familie:** Open onze [live showcase](https://parvenulab.nl) en praat rechtsonder direct met onze hostess **Baby Nu 💜**
 - ✉️ **E-mail:** `info@parvenulab.nl`
 
 ---
