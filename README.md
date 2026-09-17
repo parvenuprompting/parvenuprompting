@@ -1,7 +1,7 @@
 # Tiëndo Welles ⚔️
 
 [![Showcase](https://img.shields.io/badge/Agency%20Showcase-parvenulab.nl-b08d57?style=flat-square&logo=safari)](https://parvenulab.nl)
-[![Parvenu Family](https://img.shields.io/badge/Parvenu%20Family-20%2B%20Specialisten-16151b?style=flat-square&logo=telegram)](https://parvenulab.nl/#familie)
+[![Parvenu Family](https://img.shields.io/badge/Parvenu%20Family-20%2B%30Specialisten-16151b?style=flat-square&logo=telegram)](https://parvenulab.nl/#familie)
 [![Vaste Prijzen](https://img.shields.io/badge/Prijzen-Vast%20vooraf%20%7C%20Geen%20uurtarief-5faf7d?style=flat-square)](https://parvenulab.nl/#aanbod)
 [![Levertijd](https://img.shields.io/badge/Levertijd-In%20dagen%2C%20niet%20maanden-d4b98a?style=flat-square)](https://parvenulab.nl/#werkwijze)
 [![GrowKit](https://img.shields.io/badge/Harnas-GrowKit%20Zero--Trust-2c2c34?style=flat-square)](https://parvenuprompting.github.io/grow-kit-site/)
